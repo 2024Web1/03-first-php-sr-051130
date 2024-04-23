@@ -9,9 +9,7 @@
 </head>
 
 <body>
-    <?php
-    echo <p>Hello,World</p>;
-    ?>
+    <a href=hello.php>hello</a>
     <p>0J0X0XX神戸電子</p>
 </body>
 

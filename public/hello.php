@@ -9,9 +9,7 @@
 </head>
 <body>
     <!-- この領域(bodyタグ内)に処理内容を入れてください -->
-    <?php
-    echo '<p>Hello,World</p>';
-    ?>
+    <a href="hello.php">hello</a>
     <p>0J0X00X神戸電子</p>
 </body>
 </html>
